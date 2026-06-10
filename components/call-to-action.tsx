@@ -18,7 +18,7 @@ export function CallToAction() {
           さっそく始めてみましょう。登録は無料、いつでもあなたのペースで。
         </p>
         <Button
-          render={<a href="#" />}
+          render={<a href="https://insight.medirealize.jp/ja" />}
           nativeButton={false}
           className="group mx-auto mt-8 h-14 rounded-full bg-card px-8 text-base font-bold text-primary shadow-md [a]:hover:bg-card/90"
         >

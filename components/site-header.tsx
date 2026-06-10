@@ -12,7 +12,7 @@ export function SiteHeader() {
           <span className="text-xl font-bold tracking-tight text-foreground">ほんね。</span>
         </a>
         <Button
-          render={<a href="#cta" />}
+          render={<a href="https://insight.medirealize.jp/ja" />}
           nativeButton={false}
           className="h-10 rounded-full bg-primary px-5 text-sm font-bold text-primary-foreground shadow-sm [a]:hover:bg-primary/90"
         >
